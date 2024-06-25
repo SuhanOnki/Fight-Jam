@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a95010328cf5ba4b8d6d38fa0166c67, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  levelIndex: 0
+  stickmanCount: 3
+  towerSpawnTime: 0
+  isTutorial: 1
+  enenySpawnTime: 1
+  enemySpeed: 20
+  levelType: 1
+  isSetManual: 1
+  sequanceOfMaterials: 00000000
+  stickmanDatas:
+  - colorType: 0
+    cellIndex: 2
+    isMystery: 0
+    isYuplenen: 0
+  - colorType: 0
+    cellIndex: 3
+    isMystery: 0
+    isYuplenen: 0
+  - colorType: 0
+    cellIndex: 4
+    isMystery: 0
+    isYuplenen: 0
+  envIndex: 0
+  towerDatas: []
